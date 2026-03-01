@@ -34,9 +34,9 @@ Reduced report duplication and improved decision-making flexibility for stakehol
 
 ### 📷 Dashboard Preview 
 
-![Dashboard Preview](dashboard/top3.png)
-![Dashboard Preview](dashboard/top5.png)
-![Dashboard Preview](dashboard/top10.png)
+![Top3 Preview](top3.png)
+![Top5 Preview](top5.png)
+![Top10 Preview](top10.png)
 
 **Rita Mahato**  
 Aspiring Data Analyst  
